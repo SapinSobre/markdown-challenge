@@ -1,4 +1,4 @@
-# Nathalie
+# Nathalie Daoût
 ***
 _Size the day!_   
 
