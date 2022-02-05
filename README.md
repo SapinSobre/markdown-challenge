@@ -27,9 +27,12 @@ Pineapple on pizza :
 * building miniature house models
 * playing piano
 * drawing 
+***
 #### You can always count of me when you have a problem. I will do my best to help you. :-D 
+***
 ##### I have the hiccups every day.
 ###### Hic 
+***
 \< \< [Matthew] || Nathalie || [Philippe] \> \> 
 
 [Matthew]: https://github.com/MatthewHons/markdown-challenge
