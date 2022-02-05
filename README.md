@@ -33,7 +33,7 @@ Pineapple on pizza :
 ##### I have the hiccups every day.
 ###### Hic 
 ***
-\< \< [Matthew] || Nathalie || [Philippe] \> \> 
+\< \< [Matthew] || NATHALIE || [Philippe] \> \> 
 
 [Matthew]: https://github.com/MatthewHons/markdown-challenge
 [Philippe]: https://github.com/Frenzen-code/markdown-challenge/blob/master/README.md
