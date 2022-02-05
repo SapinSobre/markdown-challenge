@@ -6,9 +6,14 @@ _Size the day!_
 ## I'm a dreamer with the feet on the earth. ##
 ***
 Birthday : 27/11  
+
 Favorite color: orange  
-Favorite food : onglets à l'échalote  
-Pineapple on pizza : Yes  
+
+Favorite food : onglets à l'échalote 
+ 
+Pineapple on pizza :
+- [x] yes
+- [ ] no
 ***
 ### Hobbies 
 * coding
