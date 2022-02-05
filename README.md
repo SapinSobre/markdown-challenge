@@ -12,7 +12,7 @@ Favorite color: orange
 Favorite food : onglets à l'échalote 
  
 Pineapple on pizza :
-- [x] yes
+- [x] yes, but not every time
 - [ ] no
 ***
 ### Hobbies 
